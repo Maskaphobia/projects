@@ -1,4 +1,4 @@
-# Huffman coding:
+# Huffman coding encoding
 # Intuition: Suppose you have a string, and some characters appear more frequently than others, but all of them takes up the same bit size (E.g. 'looool' -> 110110011011111101111110111111011111101100)
 # Solution: We can prioritise them based on frequency, with the smallest bit size being the most common and the largest bit size being the rarest (E.g. 'looool' -> 011110)
 # Prerequisite: Binary trees, Priority Queue/Min Heap* [Not necessary to implement]
