@@ -77,5 +77,5 @@ Combined together, they form an efficient lossless compression pipeline called '
 
 ## Here is my attempt: (October 25 2025) 
 
-![picture of desmos cat]()
+<img width="608" height="546" alt="Image" src="https://github.com/user-attachments/assets/a927b895-8ee9-4e29-8284-28d9beac2228" />
 https://www.desmos.com/calculator/lxoldwv14q
