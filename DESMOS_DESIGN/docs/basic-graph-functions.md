@@ -5,10 +5,17 @@ Before creating more detailed Desmos art, it is important to understand how **ba
 
 For this guide, I will be using only a few main equations to keep things simple. 
 
-Although they will not be covered here, more complex equations can be used to produce more detailed and accurate images. E.g. Polygons are mostly used for [this image](https://www.desmos.com/calculator/dzxmimosmr)
+Although they will not be covered here, more complex equations can be used to produce more detailed and accurate images.
 
 ## Guide 
-Importing a picture: Save image as a file, then go to the top left of Desmos and click on the plus sign (+). Import your image. 
+
+### Importing a picture
+1. Save image you want to trace
+2. Open [Desmos Graphing Caulculator](www.demos.com)
+3. Click the + button on the top left of Desmos
+4. Select **Image** and upload your picture
+
+You can now trace the image using mathematical functions! 
 
 In essence, you are tracing a picture using the following equations: 
 - y = a(x-h)^2 + b [Quadratic]
