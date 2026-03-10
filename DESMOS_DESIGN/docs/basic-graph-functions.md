@@ -5,9 +5,26 @@ Before creating more detailed Desmos art, it is important to understand how **ba
 
 For this guide, I will be using only a few main equations to keep things simple. 
 
- Although they will not be covered here, more complex equations can be used to produce more detailed and accurate images.
+Although they will not be covered here, more complex equations can be used to produce more detailed and accurate images. E.g. Polygons are mostly used for [this image](https://www.desmos.com/calculator/dzxmimosmr)
 
-## Helpful links to explore further
+## Guide 
+Importing a picture: Save image as a file, then go to the top left of Desmos and click on the plus sign (+). Import your image. 
+
+In essence, you are tracing a picture using the following equations: 
+- y = a(x-h)^2 + b [Quadratic]
+- y = mx + b [Linear]
+- y = a sin(b(x-h)) + k [Sinusoidal]
+- y = a / (x-h) + b [Rational]
+- (x-h)^2 +(y-k)^2 = r^2 [Circle]
+
+Adjusting the variables like a, b, h, k, r to form the desire shape you want. 
+
+Graphing restrictions:
+
+To make the lines connect through interesection, we have something like a conditional. 
+E.g. {left < x < right} {bottom < y < top}
+
+## References and helpful links to explore further
 - [Amazing youtube video for which I learnt from](https://www.youtube.com/watch?v=C1OOghkd0W8)
 - [List of common and complex equations](https://www.desmos.com/calculator/1701fbbb2a) 
 
