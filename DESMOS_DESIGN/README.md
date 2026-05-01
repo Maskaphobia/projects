@@ -7,8 +7,8 @@ You can follow them in order or jump to any section you are interested in.
 
 **Topics covered:** 
 - [Basic Graph Functions](docs/basic-graph-functions.md) - Creating oulines using lines, circles, and graph restrictions
-- [Colouring Techniques](colouring.md) - Shading regions and using RGB colours
-- [Bezier Curves](bezier-curves.md) - Creating smooth curves and complex shapes, and a possible animation techinique
+- [Colouring Techniques](docs/colouring-techniques.md) - Shading regions and using RGB colours
+- [Bezier Curves](docs/bezier-curves.md) - Creating smooth curves and complex shapes, and a possible animation techinique
 
 --- 
 
