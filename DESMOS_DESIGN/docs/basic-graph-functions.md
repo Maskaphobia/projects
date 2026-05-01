@@ -23,12 +23,14 @@ In essence, you are tracing a picture using the following equations:
 - y = a / (x-h) + b [Rational]
 - (x-h)^2 +(y-k)^2 = r^2 [Circle]
 
-Adjusting the variables like a, b, h, k, r to form the desire shape you want. 
+**Adjust the variables like a, b, h, k, r to form the desire shape you want.**
 
 ### Graphing restrictions:
 
-To make the lines connect through interesection, we have something like a conditional. 
-E.g. {left < x < right} {bottom < y < top}
+To make the lines connect through intersection, we can use a conditional. **E.g. {left < x < right} {bottom < y < top}** <br>
+<img width="1189" height="576" alt="image" src="https://github.com/user-attachments/assets/13cdd7e1-10fb-40f2-8ea7-e3af288a6619" /> <br>
+<img width="1218" height="525" alt="image" src="https://github.com/user-attachments/assets/cc0aad5e-f7c2-4d64-bedb-7a276ce30d24" />
+
 
 ## Tips from personal experience 
 
