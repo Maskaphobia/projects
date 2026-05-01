@@ -57,10 +57,10 @@ Desmos art is simple in theory but very tedious in practice. Coming up with equa
 ## References and helpful links to explore further
 - [Amazing youtube video for which I learnt from](https://www.youtube.com/watch?v=C1OOghkd0W8)
 - [List of common and complex equations](https://www.desmos.com/calculator/1701fbbb2a) 
-
+- [Further studies on Desmos](https://www.youtube.com/watch?v=aVwxzDHniEw&t=66s)
 --- 
 
-## Here is my attempt: (October 25 2025) 
+## Ny attempt: (October 25 2025) 
 
 ### Original photo
 <img width="517" height="478" alt="Image" src="https://github.com/user-attachments/assets/1f9bd3fc-930a-43cc-bb00-d1b99bd9102c" />
