@@ -42,7 +42,7 @@ Create a moveable point as a reference as shown in the picture below. It makes i
 - **Organise your equations in folders** <br>
 As equations pile up, your workspace gets messy fast. Group related equations into folders so you can easily find and edit them later! <br>
 You can access folders at the + button on the top left of Desmos <br>
-<img width="422" height="632" alt="image" src="https://github.com/user-attachments/assets/ecc7a02c-9685-4cdc-8766-3a2c5ff46779" /> <br>
+<img width="448" height="425" alt="image" src="https://github.com/user-attachments/assets/50fd82d7-a448-4167-a019-d1733329eb7f" /><br>
 
 ### Mindset
 - **Don't be afraid to ask external help** <br>
