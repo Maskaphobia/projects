@@ -14,11 +14,17 @@ You can follow them in order or jump to any section you are interested in.
 
 ## Here are some Desmos arts below: 
 
-<img width="500" height="677" alt="Image" src="https://github.com/user-attachments/assets/6a8ea470-3583-47d8-ab72-61c9b3172c1b" /> <br>
+<img width="716" height="740" alt="image" src="https://github.com/user-attachments/assets/d146f7d8-0f35-4533-aa1a-404eba07884d" />
+ <br>
 Made with polygons
 
 "My Circular Odyssey" : https://www.desmos.com/calculator/dzxmimosmr 
-<img width="500" height="826" alt="Image" src="https://github.com/user-attachments/assets/0795d50a-7633-4d5d-a3da-4b0081914e63" /> <img width="500" height="826" alt="Image" src="https://github.com/user-attachments/assets/b3d3804b-6289-4def-8dda-610d4ea14db7" /> <br>
+
+<img width="276" height="367" alt="image" src="https://github.com/user-attachments/assets/c6fb1bcb-89c2-4c8a-9d41-b98e748381c6" />
+ <br>
+ <img width="276" height="367" alt="image" src="https://github.com/user-attachments/assets/0f642a21-4be6-4ddd-95b9-b27170eb2a50" />
+<br>
+
 Beautiful colour transformation 
 
 "Statue Degradation" : https://www.desmos.com/calculator/sorx5zcjbw 
