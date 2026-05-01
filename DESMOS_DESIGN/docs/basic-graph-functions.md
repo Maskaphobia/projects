@@ -25,7 +25,7 @@ In essence, you are tracing a picture using the following equations:
 
 Adjusting the variables like a, b, h, k, r to form the desire shape you want. 
 
-Graphing restrictions:
+### Graphing restrictions:
 
 To make the lines connect through interesection, we have something like a conditional. 
 E.g. {left < x < right} {bottom < y < top}
