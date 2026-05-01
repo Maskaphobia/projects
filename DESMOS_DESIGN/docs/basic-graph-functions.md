@@ -55,9 +55,9 @@ It is better to estimate certain curves while tracing rather than trying to copy
 Desmos art is simple in theory but very tedious in practice. Coming up with equations all day is very draining. It is easy to lose motivation or get stuck with a problem. Remember to take breaks to avoid burnout and that at the end of the day, it is just for fun  :) <br>
 
 ## References and helpful links to explore further
-- [Amazing youtube video for which I learnt from](https://www.youtube.com/watch?v=C1OOghkd0W8)
+- [Desmos Art Full Guide](https://www.youtube.com/watch?v=C1OOghkd0W8) - Amazing youtube video which I learnt from
 - [List of common and complex equations](https://www.desmos.com/calculator/1701fbbb2a) 
-- [Further studies on Desmos](https://www.youtube.com/watch?v=aVwxzDHniEw&t=66s)
+- [How I made Math Final Boss](https://www.youtube.com/watch?v=aVwxzDHniEw&t=66s) - For further understanding on applications of more complex math equations in Desmos
 --- 
 
 ## Ny attempt: (October 25 2025) 
