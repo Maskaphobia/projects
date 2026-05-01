@@ -60,7 +60,7 @@ Desmos art is simple in theory but very tedious in practice. Coming up with equa
 - [How I made Math Final Boss](https://www.youtube.com/watch?v=aVwxzDHniEw&t=66s) - For further understanding on applications of more complex math equations in Desmos
 --- 
 
-## Ny attempt: (October 25 2025) 
+## My attempt: (October 25 2025) 
 
 ### Original photo
 <img width="517" height="478" alt="Image" src="https://github.com/user-attachments/assets/1f9bd3fc-930a-43cc-bb00-d1b99bd9102c" />
