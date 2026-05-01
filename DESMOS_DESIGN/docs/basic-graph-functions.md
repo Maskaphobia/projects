@@ -11,9 +11,8 @@ Although they will not be covered here, more complex equations can be used to pr
 
 ### Importing a picture
 1. Save image you want to trace
-2. Open [Desmos Graphing Caulculator](www.demos.com)
-3. Click the + button on the top left of Desmos
-4. Select **Image** and upload your picture
+2. Click the + button on the top left of Desmos
+3. Select **Image** and upload your picture
 
 You can now trace the image using mathematical functions! 
 
