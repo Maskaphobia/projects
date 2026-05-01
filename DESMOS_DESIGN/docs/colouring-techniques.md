@@ -5,7 +5,7 @@ You learnt how to make graph outlines through basic graph functions, but colouri
 
 For this guide, I will introduce **inequalities** and **polygons** to colour the graph. <br>
 
-> **WARNING:** This takes **WAY** longer than just outlining, if you are looking for a faster way to draw/outline then proceed to [Bezier Curves](docs/bezier-curves.md)
+> **WARNING:** This takes **WAY** longer than just outlining, if you are looking for a faster way to draw/outline then proceed to [Bezier Curves](bezier-curves.md)
 
 ## Guide 
 
@@ -28,7 +28,7 @@ By holding the button next to your other equations you can access these colours 
 ### Inequalities 
 In essence, "colouring" in desmos is highlighting the range of values that exists which is an inequality. <br>
 By replacing = to inequalities sign (<, >), the region statisfying the condition gets shaded, filling in an area of your drawing. <br>
-This can be combined with graphing restrictions that was mentioned in [Basic Graph Functions](docs/basic-graph-functions.md). <br>
+This can be combined with graphing restrictions that was mentioned in [Basic Graph Functions](basic-graph-functions.md). <br>
 
 <img width="683" height="223" alt="image" src="https://github.com/user-attachments/assets/c577be21-e7d4-4956-aa8e-2aedb8030d5f" />
 
@@ -49,4 +49,4 @@ A polygon is a plane figure made up of line segments connected to form a closed 
 <img width="778" height="772" alt="image" src="https://github.com/user-attachments/assets/037a30ad-7ae0-45f9-a3d3-ef2798fc7872" /> <br>
 Link: https://www.desmos.com/calculator/cgyxchcfpb <br>
 Feel free to use my functions of equations that I did not cover: **Rotatable/sizeable ellipse** , **Bezier curves** <br>
-> Note that Bezier curves are strictly used for outlines and cannot be used for colouring, as they are just an estimation of the graph. More on that in [Bezier Curves](docs/bezier-curves.md)
+> Note that Bezier curves are strictly used for outlines and cannot be used for colouring, as they are just an estimation of the graph. More on that in [Bezier Curves](bezier-curves.md)
