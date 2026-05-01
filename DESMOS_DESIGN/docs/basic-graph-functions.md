@@ -14,7 +14,7 @@ Although they will not be covered here, more complex equations can be used to pr
 2. Click the + button on the top left of Desmos
 3. Select **Image** and upload your picture
 
-You can now trace the image using mathematical functions! 
+**You can now trace the image using mathematical functions!**
 
 In essence, you are tracing a picture using the following equations: 
 - y = a(x-h)^2 + b [Quadratic]
