@@ -57,7 +57,7 @@ Desmos art is simple in theory but very tedious in practice. Coming up with equa
 ## References and helpful links to explore further
 - [Desmos Art Full Guide](https://www.youtube.com/watch?v=C1OOghkd0W8) - Amazing youtube video which I learnt from
 - [List of common and complex equations](https://www.desmos.com/calculator/1701fbbb2a) 
-- [How I made Math Final Boss](https://www.youtube.com/watch?v=aVwxzDHniEw&t=66s) - For further understanding on applications of more complex math equations in Desmos
+- [How I made Math Final Boss](https://youtu.be/eZ681-4y3_M) - For further understanding on applications of more complex math equations in Desmos
 --- 
 
 ## My attempt: (October 25 2025) 
