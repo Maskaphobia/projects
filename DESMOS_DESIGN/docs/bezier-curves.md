@@ -36,5 +36,5 @@ After defining 4 control points as coordinates, you can adjust the control point
 
 
 ### My graph (~27 equations)
-<img width="448" height="753" alt="image" src="https://github.com/user-attachments/assets/a54774ee-78f7-49d8-a2d8-80e48f99e9e3" />
+<img width="448" height="753" alt="image" src="https://github.com/user-attachments/assets/a54774ee-78f7-49d8-a2d8-80e48f99e9e3" /><br>
 Link: https://www.desmos.com/calculator/efso3tcxuo 
